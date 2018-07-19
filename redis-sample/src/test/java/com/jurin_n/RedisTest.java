@@ -1,4 +1,4 @@
-package com;
+package com.jurin_n;
 
 import static org.junit.Assert.assertThat;
 
